@@ -1,0 +1,9 @@
+/*––––––––––––––––––––––––––––––
+Eliminate standard
+<ul> formatting
+–––––––––––––––––––––––––––––––*/
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}

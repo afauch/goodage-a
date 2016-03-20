@@ -1,0 +1,41 @@
+/*––––––––––––––––––––––––––––––
+_SPACING.SCSS
+
+Consistent spacing styles.
+
+–––––––––––––––––––––––––––––––*/
+
+/*––––––––––––––––––––––––––––––
+BLOCKS
+–––––––––––––––––––––––––––––––*/
+
+section {
+	position: relative;
+	max-height: 100vh;
+	overflow: hidden;
+}
+
+header {
+	padding-top: 98px;
+	height: 50vh;
+}
+
+footer {
+	height: 50vh;
+}
+
+/*––––––––––––––––––––––––––––––
+TEXT
+–––––––––––––––––––––––––––––––*/
+
+h1 {
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+p {
+	max-width: 188px;
+	display: block;
+	margin: 28px auto 0;
+}

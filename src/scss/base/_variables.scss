@@ -1,0 +1,79 @@
+/*––––––––––––––––––––––––––––––
+_VARIABLES.SCSS
+
+These are the key variables
+to be used across the portfolio
+site.
+
+–––––––––––––––––––––––––––––––*/
+
+/*––––––––––––––––––––––––––––––
+FONT VARIABLES
+–––––––––––––––––––––––––––––––*/
+
+//Font Faces
+$display-font: "calluna", Helvetica, sans-serif;
+$body-font: "calluna-sans", Times, sans-serif;
+
+//Font Weights
+$light: 300;
+$regular: 400;
+$semibold: 600;
+
+//Font Sizes
+$display-sz: 48px;
+$display-sz-md: 48px;
+$statement-sz: 32px;
+$statement-sz-md: 32px;
+$body-sz: 14px;
+$body-sz-md: 14px;
+
+//Line Heights
+$display-lnheight: 0.8;
+$body-lnheight: auto;
+
+//Media Breakpoints
+//(Mobile First)
+//Note: these were copied from Bootstrap
+//See issue A-001
+$break-sm: 639px;
+$break-md: 992px;
+$break-lg: 1024px;
+
+/*––––––––––––––––––––––––––––––
+COLOR VARIABLES
+–––––––––––––––––––––––––––––––*/
+
+$pri-background: #F9F9F9;
+$sec-background: #FFFFFF;
+// $pri-color: #F9F9F9;
+$pri-color: rgba(0,0,0,.59);
+// $sec-color: #B4B4B4;
+$sec-color: rgba(0,0,0,.25);
+$ter-color: #BD10E0; // test color
+// $recess-color: #727272;
+$recess-color: rgba(255,255,255,.07);
+
+
+/*––––––––––––––––––––––––––––––
+OTHER VARIABLES
+–––––––––––––––––––––––––––––––*/
+
+//This could be a cubic bezier if desired
+$rollover-time: 500ms;
+$rollover-easing: cubic-bezier(0.215, 0.61, 0.355, 1);
+
+// Using Opacity to roughly equate the
+// secondary gray color (for project li rollover)
+$opacity-hack: .4;
+
+$line-width: 2px;
+// $line-color: rgba(255,255,255,.07); // recess-color = white over background at 7% opacity
+$line-color: $pri-color;
+
+/*––––––––––––––––––––––––––––––
+TEST VARIABLES
+–––––––––––––––––––––––––––––––*/
+
+// For identifying problems
+$test: #BD10E0;

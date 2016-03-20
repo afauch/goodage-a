@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filter",
+				"filter_col_by_bool"
+			],
+			[
+				"number_",
+				"number_of_cashmere_ties"
+			],
+			[
+				"data_",
+				"data_from_csv"
+			],
+			[
+				"open",
+				"open_with_csv"
+			],
+			[
+				"Init",
+				"InitiateColorFade"
+			],
+			[
+				"de",
+				"debugLastSectionTop"
+			],
+			[
+				"Ini",
+				"InitializeIncrements"
+			],
+			[
+				"color",
+				"colorSectionArray"
+			],
+			[
+				"col",
+				"colorSectionArray"
+			],
+			[
+				"roll",
+				"rollover-easing"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"hidd",
+				"hidden-projects"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"scro",
+				"scroll"
+			],
+			[
+				"data",
+				"dataNavigationItem"
+			],
+			[
+				"target",
+				"targetContentArea"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"pro",
+				"project_featured"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sur",
+				"Surround: surround selection"
+			],
+			[
+				"surr",
+				"Surround: surround selection"
+			],
+			[
+				"surround",
+				"Surround: change surround"
+			],
+			[
+				"surro",
+				"Surround: surround selection"
+			],
+			[
+				"<a",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 94.0,
+		"history":
+		[
+			"Package Control",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a"
+	],
+	"file_history":
+	[
+		"/Users/afaucher/Desktop/DS1/src/_3_minmax.py",
+		"/Users/afaucher/Desktop/DS1/src/_4_boolcol.py",
+		"/Users/afaucher/Desktop/DS1/src/_5_rowfilter.py",
+		"/Users/afaucher/Desktop/DS1/src/_4_boolcol",
+		"/Users/afaucher/Desktop/DS1/src/_2_avg.py",
+		"/Users/afaucher/Desktop/DS1/src/s2v1.py",
+		"/Users/afaucher/Documents/LYRICS & THOUGHTS/Lan Thoughts/3.17.16 Being male.rtf",
+		"/Users/afaucher/Dropbox/for Aaron-NAPAWF/Timeline Options 2/_Font Sizes.txt",
+		"/Users/afaucher/Desktop/Lan 1",
+		"/Users/afaucher/Desktop/SharpWit-master/SharpWit/Vitals/NLP/NLP_Processing.cs",
+		"/Users/afaucher/Desktop/Wit.ai-Unity-master/Wit.aiUnityLightsAndMove/Assets/Script/HTTP/Request.cs",
+		"/Users/afaucher/Documents/Unity/TwinTalk2/AR Album iOS 1/.gitignore",
+		"/Users/afaucher/app/public/json/witresponse.json",
+		"/Users/afaucher/myapp/app.js",
+		"/Users/afaucher/Documents/Frameworks/90 Day Habits/Reflective Writing/2016 03 04",
+		"/Users/afaucher/Documents/Frameworks/90 Day Habits/Reflective Writing/2016 03 03",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/happy-57/examples/index.html",
+		"/Users/afaucher/Documents/Frameworks/90 Day Habits/Reflective Writing/2016 03 01",
+		"/Users/afaucher/Desktop/Hack Day",
+		"/Applications/Ableton Live 8.app/Contents/App-Resources/MIDI Remote Scripts/Launchpad/ConfigurableButtonElement.pyc",
+		"/Users/afaucher/Desktop/Newsletter Topics Next Week",
+		"/Users/afaucher/Desktop/Some initial feelings after Thursday night with La",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/owl-test/js/script.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/owl-test/owl-carousel/owl.carousel.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/owl-test/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/owl-test/css/global.css",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/starter.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/owl-test/owl-carousel/owl.theme.css",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/owl-test/owl-carousel/owl.carousel.css",
+		"/Users/afaucher/Documents/Frameworks/90 Day Habits/Reflective Writing/I want to just work on my portfolio this morning",
+		"/Users/afaucher/Documents/Coding/Javascript/Github Plugins/fullPage.js/jquery.fullPage.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/vendors/_jquery.fullpage.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_projects.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_variables.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_colorfade.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_pagefade.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/vendors/_jquery.fullpage.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/Gruntfile.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/global.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_snapping.js",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/kyu-scroll1/script.js",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/js-bgcolor2/index.html",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/js-bgcolor2/script.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_spacing.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/about.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/footer.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_spoter.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_fonts.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_index.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/garden/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/echoes/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/arvr/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/goodmorning/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/spoter/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/urbanprep/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_bindo.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/bindo/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/ifarm/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_prdnjy.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/prdnjy/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_pulseband.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/pulseband/index.html",
+		"/Users/afaucher/Documents/DESIGNATION/Career/landing page/afauch.github.io/README.md",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/js/jquery.windows.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_nav.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/nav-project.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/nav.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_echoes.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_garden.scss",
+		"/Users/afaucher/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_jquery.windows.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/js/jquery.scrollify.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/bindo/index-o.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_styling.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/index-o.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_colors.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_global.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_filter.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_project-link.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_footer.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_nav-project.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_about.scss",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AE Nav.html",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AE About.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/js/script.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/js/scrollify-config.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_scrollify-config.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_scrollify.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_footer.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_nav-project.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_nav.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/pulseband/index-o.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_filter2.js",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_filter-original.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/stfrancis/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_urbanprep.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_goodmorning.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/spoter/spoter.html",
+		"/Users/afaucher/Desktop/Portfolio.sh",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/goodmorning/goodmorning.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/pulseband/pulseband.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/echoes/echoes.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/stfrancis/stfrancis.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_stfrancis.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_gabon.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/gabon/gabon.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/prdnjy/prdnjy.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/vendors/vendors-extensions/_embed-responsive.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/ccl-application/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_arvr.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/arvr/arvr.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/garden/garden.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_scrollify_config.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_navtest.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_navtest",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_tests.scss",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AD Homepage.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/pulseband.html",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AA About.html",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/__FINAL WEEKEND PLAN",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/grunttest5/Gruntfile.js",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AC Homepage.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/vendors/_bootstrap.scss",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Notes/SASS Notes",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/Notes",
+		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AB Homepage.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/vendors/vendors-extensions/_ul.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials",
+			"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base",
+			"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a",
+			"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/*.scss",
+			"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/*.scss",
+			"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss",
+			"/Users/afaucher/Documents/Unity/*Add Ons/UnityHTTP-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"response_stream",
+			"updateItems",
+			"base.updateItems",
+			"updatevar",
+			"updateitems",
+			"updatevar",
+			"resize",
+			"owl-item",
+			"%",
+			"width",
+			"owl-item",
+			"pagefade",
+			"owl-wrapper",
+			"1128",
+			"owl",
+			"disable",
+			"scroll(tru",
+			"touchevents",
+			"touchsensit",
+			"swip",
+			"allowscroll",
+			"jsetAllowScrolling",
+			"touchsensit",
+			"global",
+			"$recess-color",
+			"line",
+			"scroll",
+			"cfSectionTop",
+			"sectionTop",
+			"currentsection",
+			"section",
+			"127",
+			"sectiontop",
+			"section",
+			"data-hex",
+			"data",
+			"debug",
+			"footer {",
+			" class=\"scrollify-me\"",
+			"resize",
+			"data",
+			"data-ar",
+			"</a",
+			"006",
+			"video",
+			"insight",
+			"text-al",
+			"test",
+			"tentative",
+			"h2",
+			"height",
+			"styles",
+			"main",
+			"full",
+			".section__heading",
+			".section-services-content__item__text",
+			"@media screen and (min",
+			"@media screen and (max",
+			"@media screen and (min-width: 375px)",
+			"@media",
+			"padding-left",
+			"768",
+			"font-fami",
+			"h1",
+			"import",
+			"@import",
+			".right",
+			"right",
+			".container",
+			".row",
+			"20px",
+			"woman",
+			"man",
+			"t-",
+			"glm",
+			"C6A4CF",
+			"#icon-",
+			"folder",
+			"JSONObject",
+			"#",
+			"white",
+			"container",
+			".modal",
+			"ul",
+			"header",
+			"ul",
+			"nav",
+			"featured_2",
+			"li",
+			".3",
+			"background-im",
+			"cursor",
+			"h4",
+			"li.activ",
+			"li.av",
+			".carousel",
+			"container",
+			"font-famil",
+			"h1",
+			"main header .titl",
+			".stay_connected ul",
+			"prm",
+			"background-size",
+			";\n",
+			"line-h",
+			"p ",
+			"p",
+			"font-size",
+			"h1",
+			"icon",
+			"background-color",
+			"h2",
+			"container",
+			"width",
+			"max-wid",
+			"50%",
+			"titilli",
+			"h3",
+			"h2",
+			"h3",
+			"transform",
+			".titl",
+			"container",
+			"header",
+			"transform",
+			"max",
+			"container",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sectionTop",
+			"cfSectionTop",
+			"",
+			"learning",
+			"user",
+			"DB4436"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "goodage-a.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

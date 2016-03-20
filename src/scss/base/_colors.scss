@@ -1,0 +1,36 @@
+/*––––––––––––––––––––––––––––––
+_COLORS.SCSS
+
+Standard colors for use across
+the site.
+
+–––––––––––––––––––––––––––––––*/
+
+/*––––––––––––––––––––––––––––––
+BLOCKS
+–––––––––––––––––––––––––––––––*/
+
+body {
+	background-color: $pri-background;
+}
+
+header {
+	background-color: $pri-background;
+}
+
+footer {
+	//background-color: $test;
+}
+
+
+/*––––––––––––––––––––––––––––––
+TEXT
+–––––––––––––––––––––––––––––––*/
+
+h1 {
+	color: $pri-color;
+}
+
+p {
+	color: $sec-color;
+}

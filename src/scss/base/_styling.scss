@@ -1,0 +1,32 @@
+/*––––––––––––––––––––––––––––––
+_STYLING.SCSS
+
+Embellishments used consistently
+across elements.
+
+–––––––––––––––––––––––––––––––*/
+
+/*––––––––––––––––––––––––––––––
+IMAGE
+–––––––––––––––––––––––––––––––*/
+
+footer {
+	background-image: url('/img/bg.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+/*––––––––––––––––––––––––––––––
+LINE
+–––––––––––––––––––––––––––––––*/
+
+//Put a solid line below header
+hr {
+	border-color:$line-color;
+	border-width:$line-width;
+	width: 30px;
+}
+
+/*––––––––––––––––––––––––––––––
+TEXT
+–––––––––––––––––––––––––––––––*/

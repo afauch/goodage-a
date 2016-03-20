@@ -1,0 +1,67 @@
+/*––––––––––––––––––––––––––––––
+GLOBAL.SCSS
+This is a test to see how it
+goes with compiling into
+a single file using
+Grunt.
+–––––––––––––––––––––––––––––––*/
+
+
+/*––––––––––––––––––––––––––––––
+Browser reset
+–––––––––––––––––––––––––––––––*/
+@import "vendors/_normalize.scss";
+
+/*––––––––––––––––––––––––––––––
+Import Bootstrap grid
+–––––––––––––––––––––––––––––––*/
+// @import "vendors/_bootstrap.scss";
+
+/*––––––––––––––––––––––––––––––
+Import 'fullpage.js' assets
+–––––––––––––––––––––––––––––––*/
+@import "vendors/_jquery.fullpage.scss";
+
+
+/*––––––––––––––––––––––––––––––
+Basic Bootstrap overrides
+–––––––––––––––––––––––––––––––*/
+// Grid modifications
+@import "vendors/vendors-extensions/_grid_mod.scss";
+// Kill UL formatting
+@import "vendors/vendors-extensions/_ul.scss";
+// Embed Responsive (from Bootsrap)
+@import "vendors/vendors-extensions/_embed-responsive.scss";
+
+/*––––––––––––––––––––––––––––––
+Import basic variables
+–––––––––––––––––––––––––––––––*/
+@import "base/_variables.scss";
+
+/*––––––––––––––––––––––––––––––
+Import base styles
+–––––––––––––––––––––––––––––––*/
+@import "base/_colors.scss";
+@import "base/_fonts.scss";
+@import "base/_spacing.scss";
+@import "base/_styling.scss";
+
+
+/*––––––––––––––––––––––––––––––
+Import partial modules
+–––––––––––––––––––––––––––––––*/
+//Home page
+@import "partials/_index.scss";
+//About page
+// @import "partials/_about.scss";
+//General case study styling
+// @import "partials/_projects.scss";
+
+
+
+/*––––––––––––––––––––––––––––––
+Import temporary tests
+–––––––––––––––––––––––––––––––*/
+//Projects frame on the homepage
+@import "base/_tests.scss";
+
