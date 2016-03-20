@@ -717,14 +717,14 @@ section {
   overflow: hidden; }
 
 header {
-  padding-top: 98px;
+  padding-top: 48px;
   height: 50%; }
 
 footer {
   position: absolute;
   width: 100%;
   bottom: 0;
-  height: 50vh; }
+  height: 40vh; }
 
 /*––––––––––––––––––––––––––––––
 TEXT
@@ -735,7 +735,7 @@ h1 {
   padding-bottom: 20px; }
 
 p {
-  max-width: 188px;
+  max-width: 161px;
   display: block;
   margin: 28px auto 0; }
 
@@ -760,7 +760,7 @@ LINE
 hr {
   border-color: rgba(0, 0, 0, 0.59);
   border-width: 1.5px;
-  width: 30px; }
+  width: 22px; }
 
 /*––––––––––––––––––––––––––––––
 TEXT
