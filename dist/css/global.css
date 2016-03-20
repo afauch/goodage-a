@@ -724,7 +724,7 @@ footer {
   position: absolute;
   width: 100%;
   bottom: 0;
-  height: 40vh; }
+  height: 42vh; }
 
 /*––––––––––––––––––––––––––––––
 TEXT
@@ -751,13 +751,14 @@ IMAGE
 –––––––––––––––––––––––––––––––*/
 footer {
   background-image: url("/img/bg.jpg");
-  background-size: 1440px;
-  background-position: 50% 10%; }
+  background-size: cover;
+  background-position: 50% 50%; }
 
 /*––––––––––––––––––––––––––––––
 LINE
 –––––––––––––––––––––––––––––––*/
 hr {
+  border-style: solid;
   border-color: rgba(0, 0, 0, 0.59);
   border-width: 1.5px;
   width: 22px; }
