@@ -11,16 +11,20 @@ BLOCKS
 
 section {
 	position: relative;
+	height: 100vh;
 	max-height: 100vh;
 	overflow: hidden;
 }
 
 header {
 	padding-top: 98px;
-	height: 50vh;
+	height: 50%;
 }
 
 footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
 	height: 50vh;
 }
 
