@@ -21,8 +21,8 @@ $regular: 400;
 $semibold: 600;
 
 //Font Sizes
-$display-sz: 48px;
-$display-sz-md: 48px;
+$display-sz: 32px;
+$display-sz-md: 32px;
 $statement-sz: 32px;
 $statement-sz-md: 32px;
 $body-sz: 14px;
@@ -67,7 +67,7 @@ $rollover-easing: cubic-bezier(0.215, 0.61, 0.355, 1);
 // secondary gray color (for project li rollover)
 $opacity-hack: .4;
 
-$line-width: 2px;
+$line-width: 1.5px;
 // $line-color: rgba(255,255,255,.07); // recess-color = white over background at 7% opacity
 $line-color: $pri-color;
 

@@ -689,7 +689,7 @@ h1 {
   -moz-text-align-last: center;
        text-align-last: center;
   font-family: "calluna", Helvetica, sans-serif;
-  font-size: 48px;
+  font-size: 32px;
   font-weight: 600;
   font-variant: small-caps;
   line-height: 0.8; }
@@ -755,7 +755,7 @@ LINE
 –––––––––––––––––––––––––––––––*/
 hr {
   border-color: rgba(0, 0, 0, 0.59);
-  border-width: 2px;
+  border-width: 1.5px;
   width: 30px; }
 
 /*––––––––––––––––––––––––––––––
