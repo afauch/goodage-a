@@ -765,7 +765,7 @@ across elements.
 IMAGE
 –––––––––––––––––––––––––––––––*/
 footer {
-  background-image: url("/img/bg.jpg");
+  background-image: url("bg.jpg");
   background-size: cover;
   background-position: 50% 50%; }
 
