@@ -193,7 +193,7 @@ Lets page fade in after load
 
 ––––––––––––––––––––––––––––––*/
 
-$(document).ready(function(){
+$(window).on("load",function(){
 
 	FadeInPage().done(function(){
 

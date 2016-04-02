@@ -17,7 +17,7 @@ section {
 }
 
 header {
-	padding-top: 48px;
+	padding-top: 66px;
 	height: 50%;
 }
 
@@ -25,7 +25,12 @@ footer {
 	position: absolute;
 	width: 100%;
 	bottom: 0;
-	height: 42vh;
+	height: 12%;
+	transition: height 1s;
+	@media(min-width: $break-sm) {
+		height: 33%;
+		transition: height 1s;
+	}
 }
 
 /*––––––––––––––––––––––––––––––

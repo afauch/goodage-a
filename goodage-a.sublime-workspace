@@ -215,10 +215,33 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a"
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/dist",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/dist/css",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/js/vendors",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/partials",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/vendors"
 	],
 	"file_history":
 	[
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_fonts.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/js/_pagefade.js",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_spacing.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_styling.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_variables.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/dist/index.html",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/.gitignore",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/dist/css/stylesheet.css",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_colors.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/global.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/vendors/_fontspring.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/partials/_index.scss",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_styling.scsss.haml",
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/goodage-a/src/scss/base/_fonts.haml",
 		"/Users/afaucher/Desktop/DS1/src/_3_minmax.py",
 		"/Users/afaucher/Desktop/DS1/src/_4_boolcol.py",
 		"/Users/afaucher/Desktop/DS1/src/_5_rowfilter.py",
@@ -332,21 +355,7 @@
 		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/partials/_arvr.scss",
 		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/arvr/arvr.html",
 		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/garden/garden.html",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_scrollify_config.js",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_navtest.html",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/_navtest",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/base/_tests.scss",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AD Homepage.html",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/dist/projects/pulseband.html",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AA About.html",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/__FINAL WEEKEND PLAN",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/grunttest5/Gruntfile.js",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AC Homepage.html",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/vendors/_bootstrap.scss",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Notes/SASS Notes",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/Notes",
-		"/Users/afaucher/Documents/DESIGNATION/Portfolio/Website/Templates & Blocks/_AB Homepage.html",
-		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/scss/vendors/vendors-extensions/_ul.scss"
+		"/Users/afaucher/Dropbox/Apps/Pancake.io/asf-p-a/src/js/_scrollify_config.js"
 	],
 	"find":
 	{
@@ -525,6 +534,11 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
@@ -544,11 +558,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":

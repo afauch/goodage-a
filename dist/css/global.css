@@ -717,14 +717,21 @@ section {
   overflow: hidden; }
 
 header {
-  padding-top: 48px;
+  padding-top: 66px;
   height: 50%; }
 
 footer {
   position: absolute;
   width: 100%;
   bottom: 0;
-  height: 42vh; }
+  height: 12%;
+  -webkit-transition: height 1s;
+          transition: height 1s; }
+  @media (min-width: 639px) {
+    footer {
+      height: 33%;
+      -webkit-transition: height 1s;
+              transition: height 1s; } }
 
 /*––––––––––––––––––––––––––––––
 TEXT
