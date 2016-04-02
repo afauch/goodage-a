@@ -21,6 +21,7 @@ header {
 	height: 50%;
 	@media(min-width: $break-sm) {
 		padding-top: 96px;
+		transition: padding-top 1s;
 	}
 }
 

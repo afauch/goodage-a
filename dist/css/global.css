@@ -721,7 +721,9 @@ header {
   height: 50%; }
   @media (min-width: 639px) {
     header {
-      padding-top: 96px; } }
+      padding-top: 96px;
+      -webkit-transition: padding-top 1s;
+              transition: padding-top 1s; } }
 
 footer {
   position: absolute;
