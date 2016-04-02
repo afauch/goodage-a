@@ -778,7 +778,6 @@ footer {
   background-image: url("bg.jpg");
   background-size: cover;
   background-position: 50% 50%;
-  box-shadow: 0px 0px 0px transparent;
   -webkit-animation-name: fade;
           animation-name: fade;
   -webkit-animation-delay: 3s;
