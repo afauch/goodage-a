@@ -718,7 +718,7 @@ section {
 
 header {
   padding-top: 66px;
-  height: 50%;
+  height: 100%;
   -webkit-transition: padding-top 1s;
           transition: padding-top 1s; }
   @media (min-width: 639px) {
@@ -728,7 +728,7 @@ header {
               transition: padding-top 1s; } }
 
 footer {
-  position: absolute;
+  position: fixed;
   width: 100%;
   bottom: 0;
   height: 12%;

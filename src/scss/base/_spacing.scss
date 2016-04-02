@@ -18,7 +18,7 @@ section {
 
 header {
 	padding-top: 66px;
-	height: 50%;
+	height: 100%;
 	transition: padding-top 1s;
 	@media(min-width: $break-sm) {
 		padding-top: 96px;
@@ -27,7 +27,7 @@ header {
 }
 
 footer {
-	position: absolute;
+	position: fixed;
 	width: 100%;
 	bottom: 0;
 	height: 12%;
