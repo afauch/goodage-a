@@ -19,6 +19,9 @@ section {
 header {
 	padding-top: 66px;
 	height: 50%;
+	@media(min-width: $break-sm) {
+		padding-top: 96px;
+	}
 }
 
 footer {
@@ -28,7 +31,7 @@ footer {
 	height: 12%;
 	transition: height 1s;
 	@media(min-width: $break-sm) {
-		height: 33%;
+		height: 12%;
 		transition: height 1s;
 	}
 }

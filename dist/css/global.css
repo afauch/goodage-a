@@ -719,6 +719,9 @@ section {
 header {
   padding-top: 66px;
   height: 50%; }
+  @media (min-width: 639px) {
+    header {
+      padding-top: 96px; } }
 
 footer {
   position: absolute;
@@ -729,7 +732,7 @@ footer {
           transition: height 1s; }
   @media (min-width: 639px) {
     footer {
-      height: 33%;
+      height: 12%;
       -webkit-transition: height 1s;
               transition: height 1s; } }
 
