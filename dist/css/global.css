@@ -720,8 +720,7 @@ header {
   padding-top: 66px;
   height: 100%;
   -webkit-transition: padding-top 1s;
-          transition: padding-top 1s;
-  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.45); }
+          transition: padding-top 1s; }
   @media (min-width: 639px) {
     header {
       padding-top: 96px;
@@ -734,7 +733,8 @@ footer {
   bottom: 0;
   height: 12%;
   -webkit-transition: height 1s;
-          transition: height 1s; }
+          transition: height 1s;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.45); }
   @media (min-width: 639px) {
     footer {
       height: 23%;
