@@ -736,7 +736,7 @@ footer {
           transition: height 1s; }
   @media (min-width: 639px) {
     footer {
-      height: 12%;
+      height: 23%;
       -webkit-transition: height 1s;
               transition: height 1s; } }
 
