@@ -19,6 +19,7 @@ section {
 header {
 	padding-top: 66px;
 	height: 50%;
+	transition: padding-top 1s;
 	@media(min-width: $break-sm) {
 		padding-top: 96px;
 		transition: padding-top 1s;

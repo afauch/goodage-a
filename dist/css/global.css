@@ -718,7 +718,9 @@ section {
 
 header {
   padding-top: 66px;
-  height: 50%; }
+  height: 50%;
+  -webkit-transition: padding-top 1s;
+          transition: padding-top 1s; }
   @media (min-width: 639px) {
     header {
       padding-top: 96px;
