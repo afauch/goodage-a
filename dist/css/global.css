@@ -733,7 +733,8 @@ footer {
   bottom: 0;
   height: 12%;
   -webkit-transition: height 1s;
-          transition: height 1s; }
+          transition: height 1s;
+  box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.45); }
   @media (min-width: 639px) {
     footer {
       height: 23%;
@@ -763,28 +764,10 @@ across elements.
 /*––––––––––––––––––––––––––––––
 IMAGE
 –––––––––––––––––––––––––––––––*/
-@-webkit-keyframes fade {
-  from {
-    box-shadow: 0px 0px 0px transparent; }
-  to {
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.45); } }
-@keyframes fade {
-  from {
-    box-shadow: 0px 0px 0px transparent; }
-  to {
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.45); } }
 footer {
-  background-image: url("bg.jpg");
+  background-image: url("/img/bg.jpg");
   background-size: cover;
-  background-position: 50% 50%;
-  -webkit-animation-name: fade;
-          animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-          animation-duration: 1.5s;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
-  -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards; }
+  background-position: 50% 50%; }
 
 /*––––––––––––––––––––––––––––––
 LINE
