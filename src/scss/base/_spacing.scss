@@ -32,7 +32,6 @@ footer {
 	bottom: 0;
 	height: 12%;
 	transition: height 1s;
-	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.45);
 	@media(min-width: $break-sm) {
 		height: 23%;
 		transition: height 1s;
